@@ -1,2 +1,2 @@
 # CidicUI
- MiniUI Addon for WoW Classic / Retail
+ Mini UI Addon for WoW Classic / Retail
